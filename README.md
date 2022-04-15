@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarrenOjode
-- 👀 I’m interested in application, networkand system security
+- 👀 I’m interested in application, networkng and system security
 - 🌱 I’m currently learning penetration testing
 - 💞️ I’m looking to collaborate on web development and pen-testing projects
-- 📫 How to reach me ... mojode@usiu.ac.ke
+- 📫 How to reach me ... https://www.linkedin.com/in/marren-o-891852189/
 
 <!---
 MarrenOjode/MarrenOjode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
