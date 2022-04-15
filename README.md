@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarrenOjode
-- 👀 I’m interested in application, networkng and system security
+- 👀 I’m interested in application, networking and system security
 - 🌱 I’m currently learning penetration testing
 - 💞️ I’m looking to collaborate on web development and pen-testing projects
 - 📫 How to reach me ... https://www.linkedin.com/in/marren-o-891852189/
